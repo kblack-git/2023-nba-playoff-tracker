@@ -1,0 +1,81 @@
+ [{
+			"id": "0",
+			"team": "Golden State Warriors",
+			"conference": "Western"
+		},
+		{
+			"id": "1",
+			"team": "Los Angeles Lakers",
+			"conference": "Western"
+		},
+		{
+			"id": "2",
+			"team": "Phoenix Suns",
+			"conference": "Western"
+		},
+		{
+			"id": "3",
+			"team": "Denver Nuggets",
+			"conference": "Western"
+		},
+		{
+			"id": "4",
+			"team": "Sacramento Kings",
+			"conference": "Western"
+		},
+		{
+			"id": "5",
+			"team": "Los Angeles Clippers",
+			"conference": "Western"
+		},
+		{
+			"id": "6",
+			"team": "Memphis Grizzles",
+			"conference": "Western"
+		},
+		{
+			"id": "7",
+			"team": "Oklahoma Thunder",
+			"conference": "Western"
+		},
+		{
+			"id": "8",
+			"team": "Milwaukee Bucks",
+			"conference": "Eastern"
+		},
+		{
+			"id": "9",
+			"team": "Cleveland Cavaliers",
+			"conference": "Eastern"
+		},
+		{
+			"id": "10",
+			"team": "New York Knicks",
+			"conference": "Eastern"
+		},
+		{
+			"id": "11",
+			"team": "Brooklyn Nets",
+			"conference": "Eastern"
+		},
+		{
+			"id": "12",
+			"team": "Philadelphia Sixers",
+			"conference": "Eastern"
+		},
+		{
+			"id": "13",
+			"team": "Boston Celtics",
+			"conference": "Eastern"
+		},
+		{
+			"id": "14",
+			"team": "Atlanta Hawks",
+			"conference": "Eastern"
+		},
+		{
+			"id": "15",
+			"team": "Miami Heat'",
+			"conference": "Eastern"
+		}
+	]
